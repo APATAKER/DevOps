@@ -1,0 +1,2 @@
+shebang line : #!/bin/bash
+Crontab * * * * *
