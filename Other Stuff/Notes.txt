@@ -1,0 +1,57 @@
+shebang line : #!/bin/bash
+Crontab * * * * *
+
+Creating New Git Repo
+
+EXx software
+VmWare
+
+
+curl localhost
+
+
+Microsoft Azure Active Direcctory
+
+Admin
+pass:Puso551566
+Pass:JungleJuice123
+reader
+Pass:Moyo510842
+Pass:JungleJuice123
+
+CIDR
+
+#!/bin/bash
+sudo apt-get update
+sudo apt-get install -y nginx
+sudo systemctl enable nginx
+sudo systemctl start nginx
+echo "<p><em><strong>Hi! Raja this side! we are learning DevOps with Azure on VM - $(hostname)!</strong></em></p>" > /var/www/html/index.html
+
+
+
+
+
+Fault Domain
+Update Domain
+
+Load Balancing Health Probe
+
+
+Disks
+-Managed and Unmanaged Disks
+
+commands
+linus disk partition command
+lsblk - list block devices
+fdisk - manipulate disk partition
+
+OSI
+ASG NSG
+
+Docker 
+alpine image = small image
+ENTRYPOINT and CMD used to create an executable version of the container
+ENTRYPOINT take prefrence to CMD and items in CMD is taken as parameters.
+
+

@@ -1,4 +1,0 @@
-shebang line : #!/bin/bash
-Crontab * * * * *
-
-Creating New Git Repo

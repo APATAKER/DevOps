@@ -1,0 +1,12 @@
+lsblk
+fdisk /dev/sdc
+    n
+    p
+    couple of enters
+    w
+mkfs.ext4 /dev/sdc1
+
+
+mkdir /pankaj
+
+mount /dev/sdc1 /pankaj/
