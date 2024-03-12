@@ -1,0 +1,8 @@
+
+//Running the containercd
+docker run -d -p ###:80 nginx
+
+//accessing the container
+docker exec -it "container id few letters" bash
+
+docker build . -t "name"
